@@ -7,4 +7,4 @@ Hand made respondsive web site without any formating library.
 
 1. Footer nav bar srolling animation
 2. Add some content in the meal images
-3. Add shared function on social media bottons.
+3. Add shared function on social media buttons.
