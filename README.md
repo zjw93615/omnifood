@@ -1,6 +1,6 @@
 # Omnifood
 
-Hand made respondsive web site without any formating library.
+A handmade responsive website without any formatting library.
 
 
 # Todo
